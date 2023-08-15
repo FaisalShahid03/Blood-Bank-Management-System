@@ -1,0 +1,20 @@
+Name: Sajeel
+Age: 18
+Gender: M
+Weight: 55
+Blood type: A-
+hb: 15
+Pulse rate: 60
+Systolic Blood Pressure: 110
+Diastolic Blood Pressure: 110
+Donation date: 13-07-2023
+Name: Faisal
+Age: 19
+Gender: M
+Weight: 77
+Blood type: B-
+hb: 17
+Pulse rate: 70
+Systolic Blood Pressure: 120
+Diastolic Blood Pressure: 120
+Donation date: 13-07-2023
